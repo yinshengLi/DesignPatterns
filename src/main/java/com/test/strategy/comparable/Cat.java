@@ -8,6 +8,7 @@ public class Cat implements Comparable<Cat>{
         this.weight = weight;
     }
 
+
     public int compareTo(Cat c) {
         if(this.height < c.height){
             return -1;
