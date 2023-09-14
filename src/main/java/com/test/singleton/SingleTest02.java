@@ -4,7 +4,7 @@ package com.test.singleton;
  * lazy loading
  * 懒汉式
  * 虽然达到了按需初始化的目的，但却带来了线程不安全的问题
- * 多个新城访问getInstance（），会导致创建的实例不是同一个
+ * 多个线程访问getInstance（），会导致创建的实例不是同一个
  */
 public class SingleTest02 {
     private static SingleTest02 INSTANCE;
