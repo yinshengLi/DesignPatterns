@@ -1,4 +1,4 @@
-package com.test.factory;
+package com.test.factory.video;
 
 /**
  * 简单工厂的可扩展性不好

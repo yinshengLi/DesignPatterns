@@ -1,4 +1,4 @@
-package com.test.factory;
+package com.test.factory.video;
 
 /**
  * 具体某个产品的工厂

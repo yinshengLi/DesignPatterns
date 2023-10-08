@@ -1,4 +1,4 @@
-package com.test.factory;
+package com.test.factory.video;
 
 public interface Moveable {
 

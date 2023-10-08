@@ -1,4 +1,4 @@
-package com.test.factory;
+package com.test.factory.video;
 
 public class Car implements Moveable{
     public void go(){
