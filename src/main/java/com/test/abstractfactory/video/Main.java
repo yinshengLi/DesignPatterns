@@ -1,4 +1,4 @@
-package com.test.abstractfactory;
+package com.test.abstractfactory.video;
 
 public class Main {
     public static void main(String[] args){

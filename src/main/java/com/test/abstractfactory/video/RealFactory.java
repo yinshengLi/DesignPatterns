@@ -1,4 +1,4 @@
-package com.test.abstractfactory;
+package com.test.abstractfactory.video;
 
 public class RealFactory extends AbstractFactory{
     @Override
