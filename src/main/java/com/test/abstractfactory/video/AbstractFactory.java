@@ -2,8 +2,9 @@ package com.test.abstractfactory.video;
 
 /**
  * 产品族
- * 扩展工厂和产品族，很容易实现产品族扩展
- * 容易扩展产品族，扩展族里单个产品不容易
+ *
+ * 扩展产品族不容易，新增一个产品族需要把工厂都修改了
+ * 扩展产品族里的产品容易，只要新增具体的工厂
  */
 public abstract class AbstractFactory {
     abstract Food createFood();
