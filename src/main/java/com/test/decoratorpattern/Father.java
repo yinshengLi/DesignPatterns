@@ -22,4 +22,6 @@ public class Father {
         //看成绩单
         sr.report();
     }
+
+
 }
